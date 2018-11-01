@@ -57,7 +57,7 @@ public class MainActivity extends Activity implements TextWatcher,CompoundButton
     RelativeLayout holder, holder2;
     TextView customText, customText2;
 
-
+    //adding a test comment
     private ProgressDialog dialog;
     static public CheckBox ckRemember;
     DataBaseHelpe myHelper;

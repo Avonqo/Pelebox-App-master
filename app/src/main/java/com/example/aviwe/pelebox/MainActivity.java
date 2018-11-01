@@ -53,7 +53,7 @@ public class MainActivity extends Activity implements TextWatcher,CompoundButton
     private TextView requestPassword;
     private boolean found = false;
 
-    //AVIWE MODISE
+
     RelativeLayout holder, holder2;
     TextView customText, customText2;
 

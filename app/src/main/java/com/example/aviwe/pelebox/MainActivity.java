@@ -62,7 +62,7 @@ public class MainActivity extends Activity implements TextWatcher,CompoundButton
     static public CheckBox ckRemember;
     DataBaseHelpe myHelper;
 
-    //Object of the pojo
+    //Object of the nnnnnnn
     UserClient userClient;
 
     JSONObject jsonObject;
